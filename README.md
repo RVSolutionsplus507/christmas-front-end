@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[/sslogo.webp](https://github.com/RVSolutionsplus507/christmas-front-end/blob/main/src/assets/sslogo.webp)" alt="Santa's Sight Logo" width="400"/>
+  <img src="https://github.com/RVSolutionsplus507/christmas-front-end/blob/main/src/assets/sslogo.webp" alt="Santa's Sight Logo" width="400"/>
 
   # Santa's Sight
 
